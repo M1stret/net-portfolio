@@ -23,4 +23,4 @@
 - (пока пусто)
 
 ## Контакты
-GitHub: @M1stet
+GitHub: @M1stret
